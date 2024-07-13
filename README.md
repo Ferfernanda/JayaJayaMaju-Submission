@@ -28,7 +28,7 @@ Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih
 
 ### Persiapan
 
-Sumber data: [Employee Data](Employee Data)
+Sumber data: [Employee Data](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 Setup environment:
 Apabila menginstal Python melalui Anaconda ataupun Miniconda, Anda dapat menggunakan conda sebagai package manager dan environment management system
