@@ -10,11 +10,11 @@ Walaupun telah menjadi menjadi perusahaan yang cukup besar, Jaya Jaya Maju masih
 
 ### Permasalahan Bisnis
 
-1. Tingginya Attrition Rate:
+1. **Tingginya Attrition Rate:**
 - Identifikasi faktor-faktor yang mempengaruhi tingginya attrition rate.
 - Analisis data untuk menemukan pola dan tren yang berkaitan dengan karyawan yang keluar.
 
-2. Keterbatasan dalam Monitoring:
+2. **Keterbatasan dalam Monitoring:**
 - Manajer departemen HR memerlukan alat untuk memantau berbagai faktor yang mempengaruhi attrition rate.
 - Pembuatan dashboard bisnis untuk membantu dalam pengambilan keputusan.
 
